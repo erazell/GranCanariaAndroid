@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/bg"
+    tools:context="com.example.janusz.finalapp_v1.MainActivity"
+    >
+
+
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/linearLayout2">
+
+            <EditText
+                android:id="@+id/editTextShared"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:hint="jaki mamy cel na dzisiaj?"
+
+                />
+
+            <Button
+                android:id="@+id/buttonZapiszShared"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="zapisz"
+                android:onClick="saveMethod"/>
+
+
+
+
+        </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewShared"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            >
+
+            <ImageButton
+                android:id="@+id/btn1"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/linearLayout"
+                android:layout_marginStart="13dp"
+                android:src="@drawable/call" />
+
+            <ImageButton
+                android:id="@+id/btn2"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout"
+                android:layout_centerHorizontal="true"
+                android:onClick="onClick2"
+                android:src="@drawable/audioon"
+                android:text="Musisc ON" />
+
+            <ImageButton
+                android:id="@+id/btn3"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/linearLayout"
+                android:layout_marginEnd="14dp"
+                android:onClick="onClick2"
+                android:src="@drawable/audiooff"
+                android:text="Music off" />
+        </LinearLayout>
+
+
+
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottom_nav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_navigation"
+        android:state_checked="true">
+
+    </android.support.design.widget.BottomNavigationView>
+
+</RelativeLayout>

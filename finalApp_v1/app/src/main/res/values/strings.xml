@@ -1,0 +1,113 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyCHEHJ8qoGwmCHjg0Em0_a9zWCNHb8bCaY</string>
+    <string name="app_name">finalApp_v1</string>
+
+    <string name="open">Open </string>
+    <string name="close">Close </string>
+
+    <string name="aguimes1">    Aguimes, znajduje się we wschodniej części Gran Canarii tuż przy końcu pięknego,
+        zielonego wąwozu Guayadeque (wysokie zbocza wąwozu prezentują się pięknie o każdej porze roku,
+        lecz zachwycają zwłaszcza na wiosnę – gdy kwitną tu migdałowce).</string>
+    <string name="aguimes2">    Warto wspomnieć kilka słów o samym wąwozie,
+        ponieważ zamieszkiwali go już od najdawniejszych lat Guanczowie – mieszkali w jaskiniach znajdujących
+        się w skałach tworzących ściany jaru. Również dzisiaj można spotkać tu ludzi mieszkających w domostwach wykutych w skałach
+        (słynie z tego miasteczko Cuevas Bermejas).</string>
+    <string name="aguimes3">    Powracając do Aguimes – na pierwszy rzut oka może nie zachwyca ale
+        wystarczy przejść nieco w głąb w kierunku najstarszej części miasta, by zupełnie zmienić swoje zdanie.
+        Starówka zachwyca wąskimi uliczkami, białymi zabudowaniami i mnóstwem zieleni z nimi kontrastującej.
+        </string>
+    <string name="aguimes4">    Można tu zobaczyć również wiele rzeźb, Iglesia de San Sebastian – jeden z piękniejszych kościołów na wyspie.
+        Warto tu wstąpić do Muzeum Historycznego, które przybliży nam dzieje wyspy, jej mieszkańców i pozwoli poznać
+        najważniejsze wydarzenia w jej dziejach (wstęp bezpłatny).</string>
+    <string name="arucas1">Miejscowość Arucas znana jest jako miejsce o wybitnych walorach architektonicznych i urbanistycznych.
+        Sama jej starówka, ogłoszona dziedzictwem historyczno artystycznym, stanowi wielką atrakcję dla odwiedzających.</string>
+    <string name="arucas2">Kościół Parafialny Świętego Jana Chrzciciela jest najokazalszym akcentem architektonicznym w mieście.
+        Wzniesiony został w całości z kamiennych bloków pozyskiwanych miejscowo przez tutejszych mistrzów kamieniarstwa w roku 1909.
+        Bogactwo zdobień na kolumnach i kapitułach łączy się z pięknem witraży, oraz malowideł kanaryjskiego twórcy, jakim był Cristóbal
+        Hernández de Quintana.</string>
+    <string name="arucas3">Na szczególną uwagę w Arucas zasługuje Fabryka Rumu Arehucas, założona w 1884 roku. Jest to jedno z najczęściej odwiedzanych miejsc,
+        ze względu na tradycję tej działalności, jaką szczyci się Arucas.
+        Obiekt posiada własną piwnicę, bedącą jedną z najważniejszych w Europie, którą odwiedziło wiele znakomitości,
+        pozostawiając na dębowych beczkach swoje podpisy.</string>
+    <string name="arucas4">
+Ciekawą opcją jest wejście na Górę Arucas, wspaniałe wzniesienie, z którego można podziwiać jedne z najpiękniejszych widoków północy wyspy,
+        korzystając z któregoś z umieszczonych na górze punktów widokowych. Arucas posiada dużą ofertę, tak plaż zagospodarowanych, jak i zupełnie dzikich.</string>
+    <string name="dunas1">W Maspalomas znajduje się rezerwat wydm Dunas de Maspalomas, który nie bez powodu nazywany jest "Małą Saharą". I rzeczywiście - gdyby nie ocean, miałoby się wrażenie,
+        że znajdujemy się w Afryce. Kiedyś uważano, że piasek na wydmach pochodzi znad Sahary, bo do brzegów Afryki jest stąd ok. 150 km.
+        Mimo że utworzono rezerwat, miejsce jest zagrożone przez masowo przyjeżdżających tu turystów, którzy skracają sobie drogę na plażę idąc właśnie w poprzek wydm.</string>
+    <string name="dunas2">Jednak Maspalomas nie słynie wyłącznie z wielkiego pasma wydm piaskowych przy wybrzeżu, czy z ciepłego klimatu. Rozgłos dała jej również zabytkowa latarnia morska Faro,
+        która była świadkiem przybywania na wyspę pierwszych turystówi transformacji tych obszarów w turystyczny kurort.</string>
+    <string name="dunas3">Kilka metrów od tego miejsca, miłośnicy kąpieli morskich i przechodnie mieszają się w tłumie na piasku, który stanowi początek Rezerwatu Przyrody Wydm Maspalomas.
+        Składają się na niego trzy ekosystemy: gaj palmowy El Palmeral,
+        rozlewisko la Charca i same Wydmy, rozciągające się tuż przy samym brzegu morza. Cały ten obszar jest wielkim parkiem przyrody o wysokich walorach naturalnych.</string>
+    <string name="dunas4">Plaża ta posiada odcinki bardziej dzikie i odosobnione, gdzie spopularyzowana jest praktyka nudyzmu. Idąc od Faro de Maspalomas do Playa del Inglés,
+        obszar nudystów rozpoczyna się na wysokości 3 i 4 budką. Od Playa del Inglés do Faro de Maspalomas,
+        obszar nudystów rozpoczyna się między budką 5 i 6. Z kolei miłośnicy surfingu mają swoje miejsce zbiórki na łuku łączącym Maspalomas z Playa del Inglés.</string>
+    <string name="galdar1">Miejscowość Gáldar, siedziba dawnych władców wyspy (Guanartematos), ukazuje część swej najodleglejszej przeszłości na terenie Parku Archeologicznego
+        Groty Malowideł, znajdującego się w centrum miasta i stanowiącego jedno z najistotniejszych odkryć w zaresie pierwotnej sztuki skalnej obszarów Atlantyku.</string>
+    <string name="galdar2">Na Wybrzeżu znajduje się dawne miejsce pochówku La Guancha, wielkie cmentarzysko archeologiczne, o powierzchni ograniczonej obecnie do 24.000 m2, ukazujące,
+        jak wyglądały zwyczaje dawnych mieszkańców wyspy związane z chowaniem zmarłych, jak wyglądały groty mieszkalne, większość zachowanych do dzisiaj Tumulos, oraz siedziba wodza
+        guaire i kapłanek harimaguadas.</string>
+    <string name="galdar3">Ponadto można też podziwiać spektakularne widoki patrząc na krajobraz rozciągający się ze szczytów gór Gáldar i Amagro, z których można w pełni ogarnąć
+        wzrokiem różne formacje krajobrazowe tego historycznego regionu. Jadąc wgłąb wyspy, polecamy bez wątpienia odwiedzić las sosnowy Pinos de Gáldar, będący miejscem o imponującym
+        krajobrazie oraz wysokich walorach geologicznych i botanicznych.</string>
+    <string name="galdar4">Na wybrzeży tego regionu możemy skorzystać z wielu ciekawych plaż, z których najbardziej znane to plaże Dos Roques, Punta de Gáldar, Caleta de Arriba,
+        Caleta de Abajo, Rada del Juncal, plaża Agujero, oraz inne mniejsze zatoki i tak zwane naturalne brodziki skalne, które zachęcają do kąpieli morskiej.</string>
+    <string name="lasplamas1">Spacer po ulicach Las Palmas dzielnicą Vegueta stanowi świetne spotkanie z historią i pozwala na podziwianie zatrzymanego czasu w najistotniejszych zabytkach miasta.
+        Kapliczka San Antonio Abad przy Placu Świętej Anny, otoczonym Starymi Kamienicami, Gmachem Biskupstwa, Domem Regenta, oraz Katedrą Świętej Anny, to jedynie część śladów przeszłości,
+        które przetrwały aż do dzisiejszych czasów.</string>
+    <string name="lasplamas2">Przystań Jachtowa, posiadająca najwięcej miejsc cumowniczych ze wszystkich przystani na Wyspach, sąsiaduje z Avenida Marítima, oraz z Hotelem Santa Catalina.
+        To właśnie z tego portu wyruszają jedne z najsłynniejszych regat transatlantyckich, Atlantic Rally for Cruisers (ARC), których trasa prowadzi z Gran Canarii do Santa Lucía na Karaibach.</string>
+    <string name="lasplamas3">W strefie portowej miasta znajduje się jeden z najbardziej emblematycznych parków miasta: Park Santa Catalina, przykład typowego życia ulicznego. Sąsiaduje z nim Muzeum Nauki
+        i Gmach Miller, w którym odbywają się imprezy kulturalne. Ponadto, Park Santa Catalina jest istotnym ośrodkiem wydarzeń takich jak Karnawał oraz Festiwal Teatru i Tańca, obchodzony podczas miesięcy letnich.</string>
+    <string name="lasplamas4">Las Palmas de Gran Canaria jest jednym z niewielu hiszpańskich miast stołecznych posiadających całe kilometry plaży. Dodatkowym ich atutem jest wspaniały klimat wyspy, dzięki któremu
+        z plaż tych można korzystać przed wszystkie miesiące w roku.
+
+Największą i najbardziej turystyczną plażą jest plaża Las Canteras: trzy kilometry jasnego piasku, obok kilkukilometrowej promenady nadmorskiej, przy której oferowane są wszelkiego typu usługi: hotele, restauracje,
+        bary i tarasy kawiarniane. O zachodzie słońca plaża ta wypełnia się miłośnikami sportu oraz wszystkimi, którzy pragną zażyć relaksującego spaceru.</string>
+    <string name="palmitos1">Palmitos Park is the ideal park for a day out with the family. The immense exotic park be situated on the territory Maspalomas in the south of Gran Canaria. The beautiful park is located
+        not on the coast but slightly further inland between the mountains and the beautiful nature of the island.</string>
+    <string name="palmitos2">Breathtaking aerial acrobatics of birds like eagles, falcons, owls and many more can be seen daily at 11.00 and 15.00 in the amphitheater. Raptors that you sometimes at a speed 230 km / h
+        whiz by in free flight, it is nevertheless always an experience in itself. The amphitheater of Palmitos Park is located at the highest point whatsoever offers a beautiful panoramic view of nature and its surroundings.</string>
+    <string name="palmitos3">Palmitos Park is very varied. There is an aquarium that is divided into two zones. An area with natural water and the other zone with saltwater. Poisonous fishes as the Surgeon, the Scorpion and the clown
+        fish or the hippocampus which are very popular among children decorate the aquarium. Consider reptiles like lizards from all over the world. The Komodo dragon that can reach a weight of 90 kg and comes from Indonesia.
+        In the area you can also reptiles in captivity acquainted with the native giant lizard that is found in the wild nature of Gran Canaria. The caiman and turtles from the warm California let you then tremble and dreams.
+    </string>
+    <string name="palmitos4">Between the exotic plants, birds and the warm sunshine of Gran Canaria are the unmissable dolphins. Every day there are two fabulous entertainment shows with the dolphins in the 3 pools counting dolphinarium.
+        On the tribunes that can accommodate 1,500 visitors you have and excellent view of the surroundings and the dolphins. Currently staying there five Tursiops truncatus or Bottlenose dolphins in Palmitos Park.
+        Explore the arts and the interaction of the dolphins along with their trainers. </string>
+    <string name="mogan1">Prowincja Mogán jest najbardziej turystycznym rejonem wyspy, gdyż większość turystyki przyjezdnej kieruje się nad okoliczne plaże,
+        skutkiem czego powstało w tych okolicach sześć głównych kurortów turystycznych: Arguineguín – Patalavaca, Anfi del Mar, Puerto Rico – Amadores, Tauro – Playa del Cura, Taruito i Puerto de Mogán.
+        Są one pełne hoteli i restauracji, skupionych głównie przy promenadach nadmorskich sąsiadujących z plażami.</string>
+    <string name="mogan2">Puerto de Mogán, z plażą o brunatnym piasku, jest portową miejscowością, której wyjątkowa architektura w połączeniu z pięknem przyrody, dały początek jednemu z najbardziej
+        urokliwych kurortów na Wyspach. Tutejsza przystań jachtowa, przyciągająca stale licznych miłośników żagli z całego świata, posiada 225 miejsc cumowniczych i wprowadza do całej miejscowości portową, morską atmosferę,
+        czyniąc z Puerto de Mogán miejsce naprawdę wyjątkowe.</string>
+    <string name="mogan3">Przyroda okolic Mogán zdecydowanie zasługuje na odrębną wycieczkę. Masyw Południowo Zachodni stanowi obszar o wielkich walorach geomorfologicznych i botanicznych, oferując jednocześnie
+        ciekawe pejzaże i miejsca archeologiczne. Na tych terenach można zobaczyć spore połacie endemicznej roślinności w postaci wilczomleczy. Wąwóz Veneguera rozpościera się od stóp pięknej formacji skalnej Los Azulejos,
+        stanowiącej niemal pionową ścianę wielokolorowych skał, począwszy od tonacji ciemnoczerwonej aż do niebieskiej, poprzez różne odcienie żółtego.</string>
+    <string name="mogan4">Wybrzeże regionu Mogán jest w całości wysokoskaliste, jednak przy ujściach tutejszych licznych wąwozów znajduje się wiele popularnych plaż wyspy.
+        Arguineguín, miejscowość słynna z rybołóstwa, stanowi największe skupisko miejscowej ludności w tej prowincji.</string>
+    <string name="puerto1">Puerto Rico is one of Gran Canaria’s most popular family resorts and not surprisingly as it is well known for being one of the sunniest spots on the island.
+    Situated at the mouth of a large valley, this once small fishing port, has today become a busy holiday resort, with its now smart marina and hotels and apartments, built on terraces rising
+up along the steep slopes along the coastline. </string>
+    <string name="puerto2">Although the town can get overcrowded during peak season, Puerto Rico can be very nice and quiet in low season. The resort itself has a nice friendly feel and is ideal for families with children, as there are lots of activities, which
+include the whole family.</string>
+    <string name="puerto3">The beach at Puerto Rico is small but delightful; with sand which has been brought over from the Sahara. The popular beach does tend to get crowded, you will even find sun beds lined up along the jetty. </string>
+    <string name="puerto4">There are an excellent range of water sports activities offered from the beach, including jet-skiing, sailing, diving, big game fishing and windsurfing. Plus you can take a day trip on a pleasure exploring the rest of the coast, go dolphin
+watching or enjoy a trip in a glass bottom boat.</string>
+    <string name="roque1">Monolityczna, 80-metrowa skała Roque Nublo, która znajduje się na wysokości 1813 m n.p.m. Leży w centrum Gran Canarii, kilka kilometrów na zachód od najwyższego szczytu wyspy, Pico de las Nieves. Dotrzeć do niej można jedynie pieszo.
+        Wspinaczka trwa ok. 4 godz. Warto jednak podjąć ten wysiłek, gdyż ze szczytu roztacza się zachwycający widok na okolicę. </string>
+    <string name="roque2">Teren przy Roque Bentayga jest związany z centrum informacji i muzeum które mieści się tuż obok, a czynne jest od godziny 10. Mało tego – żeby wjechać i zaparkować pod skałą też musicie poczekać na godzinę 10 – na dole jest szlaban.
+        Muzeum zostało niedawno otwarte i wstęp jest bezpłatny. Dowiecie się w nim więcej o życiu dawnych plemion zamieszkujących te tereny.</string>
+    <string name="roque3">Jeżeli chodzi o możliwość poznania bogactwa tutejszej przyrody, koniecznie należy się wybrać na wędrówkę po lasach sosnowych Inagua i Ojeda, oraz na północ do okolic Los Pechos, skąd rozlega się piękny widok, jest to bowiem geograficzny środek wyspy.</string>
+    <string name="roque4"></string>
+    <string name="teror1">Teror jest miejscem pielgrzymowania wszystkich mieszkańców Gran Canarii, gdyż to właśnie tutaj znajduje się Bazylika Matki Boskiej Sosnowej (Virgen del Pino), Patronki Diecezji Kanaryskiej. Dlatego wizyta w Teror nie może się obyć bez wizyty w Bazylice.
+        Znajduje się ona przy Plaza del Pino, a wzniesiona została w roku 1767, choć później również wielokrotnie ją odnawiano, głównie w latach 1968 i 1969. Obecna świątynia, pokryta spadzistym dachem, posiada trzy nawy z czternastoma łukami centralnymi, które są podtrzymywane przez kolumny i filary.</string>
+    <string name="teror2">Ściśle związany z Teror jest również Klasztor Cystersów. Pochodzi on z roku 1882, gdy zapoczątkowano budowę na prośbę proboszcza D.Judas Antonio Dávila. W jego wnętrzu znajdują się obrazy Świętego Benito i Świętego Ildefonsa, pochodzące z dawnego klasztoru w Las Palmas de Gran Canaria.
+        Tutejsze zgromadzenie sióstr zakonu cysterskiego obchodziło w roku 1980 stuletnią rocznicę istnienia klasztoru w Teror, gdzie jest on od dawna ściśle związany z życiem mieszkańców tej miejscowości.</string>
+    <string name="teror3">Jeżeli chodzi o zwiedzenie okolic przyrodniczych wokół regionu Teror, należy mieć na uwadze, że szczyci się on wieloma obszarami chronionymi: Pino Santo, o wielkich walorach krajobrazowych i ekologicznych; Park Przyrodniczy Doramas, gdzie znajdują się wąwozy Azuaje i Moya;
+        Finca de Osorio, z Aulą Przyrody Osorio; Caldera de Pino Santo o ponad półkilometrowej średnicy; El Palmar lub Parque de Sintes, stanowiący niewielki las pełen gatunków miejscowej fauny.</string>
+    <string name="teror4">Teror jest jednym z najlepszych miejsc jeśli chodzi o zakupy typowych kanaryjskich pamiątek. Do tego dochodzi wspaniała gastronomia, z której słynie miejscowość, a której produkty, obok wyrobów rękodzieła, można kupić na lokalnym Jarmarku.
+        W każdą niedzielę, od 8.00 rano do 15.00, plac przez Bazyliką staje się ośrodkiem rozległego targowiska, na którym można kupić wszelkiego rodzaju produkty spożywcze, słodycze, odzież, oraz wyroby lokalnego rękodzieła.</string>
+
+</resources>

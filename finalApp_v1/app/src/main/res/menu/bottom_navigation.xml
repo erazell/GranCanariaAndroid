@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <item android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_menu"
+            android:title=""/>
+        <item android:id="@+id/nav_note"
+            android:icon="@drawable/ic_note"
+            android:title=""/>
+        <item android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map"
+            android:title=""/>
+        <item android:id="@+id/nav_attraction"
+            android:icon="@drawable/ic_ancient"
+            android:title=""/>
+        <item android:id="@+id/nav_weather"
+            android:icon="@drawable/ic_weather"
+            android:title=""/>
+
+
+
+</menu>

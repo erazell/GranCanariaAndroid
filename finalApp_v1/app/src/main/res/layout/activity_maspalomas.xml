@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.janusz.finalapp_v1.Attractions.Maspalomas">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maspalomas is a resort town in the south of Gran Canaria, in Spain’s Canary Islands.
+        It’s known for its vast expanse of coastal dunes. These encompass the Maspalomas Dunes nature reserve.
+        It contains several ecosystems, including the La Charca Lagoon, palm groves and the dunes,
+        rich in birdlife like plovers, snipes and herons. The tall, slender Maspalomas Lighthouse has been operating since the late 19th century."
+        android:id="@+id/textView" />
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_below="@+id/textView"
+        android:layout_marginBottom="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:columnWidth="80dp"
+        android:horizontalSpacing="5dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" />
+
+</RelativeLayout>
